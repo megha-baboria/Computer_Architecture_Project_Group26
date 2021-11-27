@@ -16,3 +16,6 @@ Champsim/replacement/hawkeye_original.llc_repl,optgen_original.h,hawkeye_origina
 
 Champsim/results_10M/hawkeye_confidence_x - Contains results when confidence threshold is set to x
 Champsim/results_10M/ipcp_hakweye_ppx - Contains results when alpha-p threshold is set to x
+Champsim/results_10M/ipcp_hakweye_rrpvx - Contains results when rrpv for cache averse lines is set to x
+
+Champsim/Prefetcher/new_ipcp.l1d_pref,new_ipcp.l2c_pref - Contains ipcp with degree 1
